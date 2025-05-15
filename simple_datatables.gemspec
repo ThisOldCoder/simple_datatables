@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "rails", ">= 5.0"
-  s.add_dependency "ransack", '~> 2.3.0'
+  s.add_dependency "ransack", '2.3.0'
   s.add_dependency "jsonify-rails"
 
 end
